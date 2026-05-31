@@ -1,0 +1,13 @@
+bin/
+obj/
+publish/
+.vs/
+*.user
+*.suo
+*.zip
+*.exe
+*.dll
+*.pdb
+*.dat
+*.bak
+SaveData*.dat
