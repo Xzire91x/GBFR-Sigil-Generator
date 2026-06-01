@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Draft shape for future GUI data files. This is documentation-as-data, not a strict JSON Schema validator yet.",
+  "sigil": {
+    "internalId": "GEEN_000_00",
+    "hash": null,
+    "displayName": "Example Sigil",
+    "category": null,
+    "isPlusSigil": null,
+    "supportsSecondaryTrait": null,
+    "allowedSigilLevels": null,
+    "defaultSigilLevel": null,
+    "maxSigilLevel": null,
+    "primaryTraitId": null,
+    "primaryTraitName": null,
+    "firstTraitMaxLevel": null,
+    "allowedFirstTraitLevels": null,
+    "defaultSecondaryTraitId": null,
+    "defaultSecondaryTraitName": null,
+    "allowedSecondaryTraitIds": [],
+    "disallowedSecondaryTraitIds": [],
+    "secondaryTraitLevelOverrides": {
+      "SKILL_000_00": {
+        "maxLevel": null,
+        "allowedLevels": null,
+        "observedLevels": []
+      }
+    },
+    "compatibilityRuleIds": [],
+    "notes": "Use null for unknown values and verify before enabling in the GUI.",
+    "source": null,
+    "confidence": "unknown"
+  },
+  "trait": {
+    "internalId": "SKILL_000_00",
+    "hash": "0x00000000",
+    "displayName": "Example Trait",
+    "category": null,
+    "maxLevel": null,
+    "allowedLevels": null,
+    "observedLevels": [],
+    "canAppearAsPrimary": null,
+    "canAppearAsSecondary": null,
+    "bannedAsSecondaryOnPlusSigils": null,
+    "notes": "Each trait has its own max level; never assume a global max.",
+    "source": null,
+    "confidence": "unknown"
+  },
+  "compatibilityRule": {
+    "id": "example-rule-id",
+    "type": "allow-secondary-trait",
+    "sigilId": "GEEN_000_00",
+    "primaryTraitId": "SKILL_000_00",
+    "secondaryTraitId": "SKILL_001_00",
+    "allowedSecondaryLevels": null,
+    "notes": null,
+    "source": null,
+    "confidence": "unknown"
+  }
+}

@@ -1,0 +1,1156 @@
+﻿{
+    "resolved":  [
+                     {
+                         "sigilId":  "GEEN_000_24",
+                         "sigilName":  "Attack Power V+",
+                         "traitId":  "SKILL_000_00",
+                         "traitName":  "ATK",
+                         "maxLevel":  50
+                     },
+                     {
+                         "sigilId":  "GEEN_001_24",
+                         "sigilName":  "Health V+",
+                         "traitId":  "SKILL_001_00",
+                         "traitName":  "HP",
+                         "maxLevel":  50
+                     },
+                     {
+                         "sigilId":  "GEEN_003_24",
+                         "sigilName":  "Critical Hit Rate V+",
+                         "traitId":  "SKILL_003_00",
+                         "traitName":  "Critical Hit Rate",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_004_24",
+                         "sigilName":  "Stun Power V+",
+                         "traitId":  "SKILL_004_00",
+                         "traitName":  "Stun Power",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_005_24",
+                         "sigilName":  "Enmity V+",
+                         "traitId":  "SKILL_005_00",
+                         "traitName":  "Enmity",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_006_24",
+                         "sigilName":  "Stamina V+",
+                         "traitId":  "SKILL_006_00",
+                         "traitName":  "Stamina",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_008_24",
+                         "sigilName":  "Charged Attack V+",
+                         "traitId":  "SKILL_008_00",
+                         "traitName":  "Charged Attack DMG",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_009_24",
+                         "sigilName":  "Linked Together V+",
+                         "traitId":  "SKILL_009_00",
+                         "traitName":  "Linked Together",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_012_24",
+                         "sigilName":  "Throw V+",
+                         "traitId":  "SKILL_012_00",
+                         "traitName":  "Throw DMG",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_013_24",
+                         "sigilName":  "Critical Damage V+",
+                         "traitId":  "SKILL_013_00",
+                         "traitName":  "Critical Hit DMG",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_014_24",
+                         "sigilName":  "Exploiter V+",
+                         "traitId":  "SKILL_014_00",
+                         "traitName":  "Weak Point DMG",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_017_24",
+                         "sigilName":  "Combo Finisher V+",
+                         "traitId":  "SKILL_017_00",
+                         "traitName":  "Combo Finisher DMG",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_018_24",
+                         "sigilName":  "Concentrated Fire V+",
+                         "traitId":  "SKILL_018_00",
+                         "traitName":  "Concentrated Fire",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_020_24",
+                         "sigilName":  "Damage Cap V+",
+                         "traitId":  "SKILL_020_00",
+                         "traitName":  "DMG Cap",
+                         "maxLevel":  65
+                     },
+                     {
+                         "sigilId":  "GEEN_024_24",
+                         "sigilName":  "Combo Booster V+",
+                         "traitId":  "SKILL_024_00",
+                         "traitName":  "Combo Booster",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_027_24",
+                         "sigilName":  "Tyranny V+",
+                         "traitId":  "SKILL_027_00",
+                         "traitName":  "Tyranny",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_028_24",
+                         "sigilName":  "Lucky Charge V+",
+                         "traitId":  "SKILL_028_00",
+                         "traitName":  "Lucky Charge",
+                         "maxLevel":  20
+                     },
+                     {
+                         "sigilId":  "GEEN_029_24",
+                         "sigilName":  "Injury to Insult V+",
+                         "traitId":  "SKILL_029_00",
+                         "traitName":  "Injury to Insult",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_030_24",
+                         "sigilName":  "Overdrive Assassin V+",
+                         "traitId":  "SKILL_030_00",
+                         "traitName":  "Overdrive Assassin",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_031_24",
+                         "sigilName":  "Break Assassin V+",
+                         "traitId":  "SKILL_031_00",
+                         "traitName":  "Break Assassin",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_036_24",
+                         "sigilName":  "Garrison V+",
+                         "traitId":  "SKILL_036_00",
+                         "traitName":  "Garrison",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_045_24",
+                         "sigilName":  "Guts V+",
+                         "traitId":  "SKILL_045_00",
+                         "traitName":  "Guts",
+                         "maxLevel":  20
+                     },
+                     {
+                         "sigilId":  "GEEN_060_24",
+                         "sigilName":  "Improved Guard V+",
+                         "traitId":  "SKILL_060_00",
+                         "traitName":  "Improved Guard",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_061_24",
+                         "sigilName":  "Guard Payback V+",
+                         "traitId":  "SKILL_061_00",
+                         "traitName":  "Guard Payback",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_063_24",
+                         "sigilName":  "Improved Dodge+",
+                         "traitId":  "SKILL_063_00",
+                         "traitName":  "Improved Dodge",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_064_24",
+                         "sigilName":  "Dodge Payback V+",
+                         "traitId":  "SKILL_064_00",
+                         "traitName":  "Dodge Payback",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_067_24",
+                         "sigilName":  "Drain+",
+                         "traitId":  "SKILL_067_00",
+                         "traitName":  "Drain",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_068_24",
+                         "sigilName":  "Autorevive V+",
+                         "traitId":  "SKILL_068_00",
+                         "traitName":  "Autorevive",
+                         "maxLevel":  20
+                     },
+                     {
+                         "sigilId":  "GEEN_069_24",
+                         "sigilName":  "Quick Cooldown V+",
+                         "traitId":  "SKILL_069_00",
+                         "traitName":  "Quick Cooldown",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_070_24",
+                         "sigilName":  "Cascade V+",
+                         "traitId":  "SKILL_070_00",
+                         "traitName":  "Cascade",
+                         "maxLevel":  20
+                     },
+                     {
+                         "sigilId":  "GEEN_072_24",
+                         "sigilName":  "Uplift V+",
+                         "traitId":  "SKILL_072_00",
+                         "traitName":  "Uplift",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_073_24",
+                         "sigilName":  "Potion Hoarder+",
+                         "traitId":  "SKILL_073_00",
+                         "traitName":  "Potion Hoarder",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_083_24",
+                         "sigilName":  "Skilled Assault V+",
+                         "traitId":  "SKILL_083_00",
+                         "traitName":  "Skilled Assault",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_085_24",
+                         "sigilName":  "Aegis V+",
+                         "traitId":  "SKILL_085_00",
+                         "traitName":  "Aegis",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_096_24",
+                         "sigilName":  "Steel Nerves V+",
+                         "traitId":  "SKILL_096_00",
+                         "traitName":  "Steel Nerves",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_104_24",
+                         "sigilName":  "Nimble Defense V+",
+                         "traitId":  "SKILL_104_00",
+                         "traitName":  "Nimble Defense",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_106_24",
+                         "sigilName":  "Nimble Onslaught V+",
+                         "traitId":  "SKILL_106_00",
+                         "traitName":  "Nimble Onslaught",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_107_24",
+                         "sigilName":  "Precise Resilience V+",
+                         "traitId":  "SKILL_107_00",
+                         "traitName":  "Precise Resilience",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_110_24",
+                         "sigilName":  "Life on the Line V+",
+                         "traitId":  "SKILL_110_00",
+                         "traitName":  "Life on the Line",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_111_24",
+                         "sigilName":  "Quick Charge V+",
+                         "traitId":  "SKILL_111_00",
+                         "traitName":  "Quick Charge",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_114_90",
+                         "sigilName":  "Fearless Soul+",
+                         "traitId":  "SKILL_114_00",
+                         "traitName":  "Fearless Drive",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_114_01",
+                         "defaultSecondaryTraitName":  "Fearless Spirit"
+                     },
+                     {
+                         "sigilId":  "GEEN_114_91",
+                         "sigilName":  "Fearless Drive+",
+                         "traitId":  "SKILL_114_00",
+                         "traitName":  "Fearless Drive",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_114_92",
+                         "sigilName":  "Fearless Spirit+",
+                         "traitId":  "SKILL_114_01",
+                         "traitName":  "Fearless Spirit",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_114_93",
+                         "sigilName":  "Fearless Heart+",
+                         "traitId":  "SKILL_114_02",
+                         "traitName":  "Fearless Heart",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_115_90",
+                         "sigilName":  "Guardian\u0027s Awakening+",
+                         "traitId":  "SKILL_115_00",
+                         "traitName":  "Guardian\u0027s Conviction",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_115_01",
+                         "defaultSecondaryTraitName":  "Guardian\u0027s Honor"
+                     },
+                     {
+                         "sigilId":  "GEEN_115_91",
+                         "sigilName":  "Guardian\u0027s Conviction+",
+                         "traitId":  "SKILL_115_00",
+                         "traitName":  "Guardian\u0027s Conviction",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_115_92",
+                         "sigilName":  "Guardian\u0027s Honor+",
+                         "traitId":  "SKILL_115_01",
+                         "traitName":  "Guardian\u0027s Honor",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_115_93",
+                         "sigilName":  "Guardian\u0027s Warpath+",
+                         "traitId":  "SKILL_115_02",
+                         "traitName":  "Guardian\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_116_90",
+                         "sigilName":  "Helmsman\u0027s Awakening+",
+                         "traitId":  "SKILL_116_00",
+                         "traitName":  "Helmsman\u0027s Navigation",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_116_01",
+                         "defaultSecondaryTraitName":  "Helmsman\u0027s Tenacity"
+                     },
+                     {
+                         "sigilId":  "GEEN_116_91",
+                         "sigilName":  "Helmsman\u0027s Navigation+",
+                         "traitId":  "SKILL_116_00",
+                         "traitName":  "Helmsman\u0027s Navigation",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_116_92",
+                         "sigilName":  "Helmsman\u0027s Tenacity+",
+                         "traitId":  "SKILL_116_01",
+                         "traitName":  "Helmsman\u0027s Tenacity",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_116_93",
+                         "sigilName":  "Helmsman\u0027s Warpath+",
+                         "traitId":  "SKILL_116_02",
+                         "traitName":  "Helmsman\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_117_90",
+                         "sigilName":  "Mage\u0027s Awakening+",
+                         "traitId":  "SKILL_117_00",
+                         "traitName":  "Mage\u0027s Aspiration",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_117_01",
+                         "defaultSecondaryTraitName":  "Mage\u0027s Savvy"
+                     },
+                     {
+                         "sigilId":  "GEEN_117_91",
+                         "sigilName":  "Mage\u0027s Aspiration+",
+                         "traitId":  "SKILL_117_00",
+                         "traitName":  "Mage\u0027s Aspiration",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_117_92",
+                         "sigilName":  "Mage\u0027s Savvy+",
+                         "traitId":  "SKILL_117_01",
+                         "traitName":  "Mage\u0027s Savvy",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_117_93",
+                         "sigilName":  "Mage\u0027s Warpath+",
+                         "traitId":  "SKILL_117_02",
+                         "traitName":  "Mage\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_118_90",
+                         "sigilName":  "Veteran\u0027s Awakening+",
+                         "traitId":  "SKILL_118_00",
+                         "traitName":  "Veteran\u0027s Insight",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_118_01",
+                         "defaultSecondaryTraitName":  "Veteran\u0027s Vision"
+                     },
+                     {
+                         "sigilId":  "GEEN_118_91",
+                         "sigilName":  "Veteran\u0027s Insight+",
+                         "traitId":  "SKILL_118_00",
+                         "traitName":  "Veteran\u0027s Insight",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_118_92",
+                         "sigilName":  "Veteran\u0027s Vision+",
+                         "traitId":  "SKILL_118_01",
+                         "traitName":  "Veteran\u0027s Vision",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_118_93",
+                         "sigilName":  "Veteran\u0027s Warpath+",
+                         "traitId":  "SKILL_118_02",
+                         "traitName":  "Veteran\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_119_90",
+                         "sigilName":  "Rose\u0027s Awakening+",
+                         "traitId":  "SKILL_119_00",
+                         "traitName":  "Rose\u0027s Blooming",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_119_01",
+                         "defaultSecondaryTraitName":  "Rose\u0027s Profusion"
+                     },
+                     {
+                         "sigilId":  "GEEN_119_91",
+                         "sigilName":  "Rose\u0027s Blooming+",
+                         "traitId":  "SKILL_119_00",
+                         "traitName":  "Rose\u0027s Blooming",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_119_92",
+                         "sigilName":  "Rose\u0027s Profusion+",
+                         "traitId":  "SKILL_119_01",
+                         "traitName":  "Rose\u0027s Profusion",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_119_93",
+                         "sigilName":  "Rose\u0027s Warpath+",
+                         "traitId":  "SKILL_119_02",
+                         "traitName":  "Rose\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_120_90",
+                         "sigilName":  "Phantasm\u0027s Awakening+",
+                         "traitId":  "SKILL_120_00",
+                         "traitName":  "Phantasm\u0027s Concord",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_120_01",
+                         "defaultSecondaryTraitName":  "Phantasm\u0027s Harmony"
+                     },
+                     {
+                         "sigilId":  "GEEN_120_91",
+                         "sigilName":  "Phantasm\u0027s Concord+",
+                         "traitId":  "SKILL_120_00",
+                         "traitName":  "Phantasm\u0027s Concord",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_120_92",
+                         "sigilName":  "Phantasm\u0027s Harmony+",
+                         "traitId":  "SKILL_120_01",
+                         "traitName":  "Phantasm\u0027s Harmony",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_120_93",
+                         "sigilName":  "Phantasm\u0027s Warpath+",
+                         "traitId":  "SKILL_120_02",
+                         "traitName":  "Phantasm\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_121_90",
+                         "sigilName":  "White Dragon\u0027s Awakening+",
+                         "traitId":  "SKILL_121_00",
+                         "traitName":  "White Dragon\u0027s Oath",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_121_01",
+                         "defaultSecondaryTraitName":  "White Dragon\u0027s Glory"
+                     },
+                     {
+                         "sigilId":  "GEEN_121_91",
+                         "sigilName":  "White Dragon\u0027s Oath+",
+                         "traitId":  "SKILL_121_00",
+                         "traitName":  "White Dragon\u0027s Oath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_121_92",
+                         "sigilName":  "White Dragon\u0027s Glory+",
+                         "traitId":  "SKILL_121_01",
+                         "traitName":  "White Dragon\u0027s Glory",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_121_93",
+                         "sigilName":  "White Dragon\u0027s Warpath+",
+                         "traitId":  "SKILL_121_02",
+                         "traitName":  "White Dragon\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_122_90",
+                         "sigilName":  "Hero\u0027s Awakening+",
+                         "traitId":  "SKILL_122_00",
+                         "traitName":  "Hero\u0027s Creed",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_122_01",
+                         "defaultSecondaryTraitName":  "Hero\u0027s Will"
+                     },
+                     {
+                         "sigilId":  "GEEN_122_91",
+                         "sigilName":  "Hero\u0027s Creed+",
+                         "traitId":  "SKILL_122_00",
+                         "traitName":  "Hero\u0027s Creed",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_122_92",
+                         "sigilName":  "Hero\u0027s Will+",
+                         "traitId":  "SKILL_122_01",
+                         "traitName":  "Hero\u0027s Will",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_122_93",
+                         "sigilName":  "Hero\u0027s Warpath+",
+                         "traitId":  "SKILL_122_02",
+                         "traitName":  "Hero\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_123_90",
+                         "sigilName":  "Lord\u0027s Awakening+",
+                         "traitId":  "SKILL_123_00",
+                         "traitName":  "Lord\u0027s Procession",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_123_01",
+                         "defaultSecondaryTraitName":  "Lord\u0027s Ambition"
+                     },
+                     {
+                         "sigilId":  "GEEN_123_91",
+                         "sigilName":  "Lord\u0027s Procession+",
+                         "traitId":  "SKILL_123_00",
+                         "traitName":  "Lord\u0027s Procession",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_123_92",
+                         "sigilName":  "Lord\u0027s Ambition+",
+                         "traitId":  "SKILL_123_01",
+                         "traitName":  "Lord\u0027s Ambition",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_123_93",
+                         "sigilName":  "Lord\u0027s Warpath+",
+                         "traitId":  "SKILL_123_02",
+                         "traitName":  "Lord\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_124_90",
+                         "sigilName":  "Dragonslayer\u0027s Awakening+",
+                         "traitId":  "SKILL_124_00",
+                         "traitName":  "Dragonslayer\u0027s Dominance",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_124_01",
+                         "defaultSecondaryTraitName":  "Dragonslayer\u0027s Ingenuity"
+                     },
+                     {
+                         "sigilId":  "GEEN_124_91",
+                         "sigilName":  "Dragonslayer\u0027s Dominance+",
+                         "traitId":  "SKILL_124_00",
+                         "traitName":  "Dragonslayer\u0027s Dominance",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_124_92",
+                         "sigilName":  "Dragonslayer\u0027s Ingenuity+",
+                         "traitId":  "SKILL_124_01",
+                         "traitName":  "Dragonslayer\u0027s Ingenuity",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_124_93",
+                         "sigilName":  "Dragonslayer\u0027s Warpath+",
+                         "traitId":  "SKILL_124_02",
+                         "traitName":  "Dragonslayer\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_125_90",
+                         "sigilName":  "Holy Knight\u0027s Awakening+",
+                         "traitId":  "SKILL_125_00",
+                         "traitName":  "Holy Knight\u0027s Luster",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_125_01",
+                         "defaultSecondaryTraitName":  "Holy Knight\u0027s Grandeur"
+                     },
+                     {
+                         "sigilId":  "GEEN_125_91",
+                         "sigilName":  "Holy Knight\u0027s Luster+",
+                         "traitId":  "SKILL_125_00",
+                         "traitName":  "Holy Knight\u0027s Luster",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_125_92",
+                         "sigilName":  "Holy Knight\u0027s Grandeur+",
+                         "traitId":  "SKILL_125_01",
+                         "traitName":  "Holy Knight\u0027s Grandeur",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_125_93",
+                         "sigilName":  "Holy Knight\u0027s Warpath+",
+                         "traitId":  "SKILL_125_02",
+                         "traitName":  "Holy Knight\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_126_90",
+                         "sigilName":  "Swordmaster\u0027s Awakening+",
+                         "traitId":  "SKILL_126_00",
+                         "traitName":  "Swordmaster\u0027s Prowess",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_126_01",
+                         "defaultSecondaryTraitName":  "Swordmaster\u0027s Art"
+                     },
+                     {
+                         "sigilId":  "GEEN_126_91",
+                         "sigilName":  "Swordmaster\u0027s Prowess+",
+                         "traitId":  "SKILL_126_00",
+                         "traitName":  "Swordmaster\u0027s Prowess",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_126_92",
+                         "sigilName":  "Swordmaster\u0027s Art+",
+                         "traitId":  "SKILL_126_01",
+                         "traitName":  "Swordmaster\u0027s Art",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_126_93",
+                         "sigilName":  "Swordmaster\u0027s Warpath+",
+                         "traitId":  "SKILL_126_02",
+                         "traitName":  "Swordmaster\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_127_90",
+                         "sigilName":  "Butterfly\u0027s Awakening+",
+                         "traitId":  "SKILL_127_00",
+                         "traitName":  "Butterfly\u0027s Grace",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_127_01",
+                         "defaultSecondaryTraitName":  "Butterfly\u0027s Valor"
+                     },
+                     {
+                         "sigilId":  "GEEN_127_91",
+                         "sigilName":  "Butterfly\u0027s Grace+",
+                         "traitId":  "SKILL_127_00",
+                         "traitName":  "Butterfly\u0027s Grace",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_127_92",
+                         "sigilName":  "Butterfly\u0027s Valor+",
+                         "traitId":  "SKILL_127_01",
+                         "traitName":  "Butterfly\u0027s Valor",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_127_93",
+                         "sigilName":  "Butterfly\u0027s Warpath+",
+                         "traitId":  "SKILL_127_02",
+                         "traitName":  "Butterfly\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_128_90",
+                         "sigilName":  "Eternal Rage\u0027s Awakening+",
+                         "traitId":  "SKILL_128_00",
+                         "traitName":  "Eternal Rage\u0027s Mettle",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_128_01",
+                         "defaultSecondaryTraitName":  "Eternal Rage\u0027s Ethos"
+                     },
+                     {
+                         "sigilId":  "GEEN_128_91",
+                         "sigilName":  "Eternal Rage\u0027s Mettle+",
+                         "traitId":  "SKILL_128_00",
+                         "traitName":  "Eternal Rage\u0027s Mettle",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_128_92",
+                         "sigilName":  "Eternal Rage\u0027s Ethos+",
+                         "traitId":  "SKILL_128_01",
+                         "traitName":  "Eternal Rage\u0027s Ethos",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_128_93",
+                         "sigilName":  "Eternal Rage\u0027s Warpath+",
+                         "traitId":  "SKILL_128_02",
+                         "traitName":  "Eternal Rage\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_129_90",
+                         "sigilName":  "Founder\u0027s Awakening+",
+                         "traitId":  "SKILL_129_00",
+                         "traitName":  "Founder\u0027s Strategy",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_129_01",
+                         "defaultSecondaryTraitName":  "Founder\u0027s Truth"
+                     },
+                     {
+                         "sigilId":  "GEEN_129_91",
+                         "sigilName":  "Founder\u0027s Strategy+",
+                         "traitId":  "SKILL_129_00",
+                         "traitName":  "Founder\u0027s Strategy",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_129_92",
+                         "sigilName":  "Founder\u0027s Truth+",
+                         "traitId":  "SKILL_129_01",
+                         "traitName":  "Founder\u0027s Truth",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_129_93",
+                         "sigilName":  "Founder\u0027s Warpath+",
+                         "traitId":  "SKILL_129_02",
+                         "traitName":  "Founder\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_130_90",
+                         "sigilName":  "Versalis Soul+",
+                         "traitId":  "SKILL_130_00",
+                         "traitName":  "Versalis Foundation",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_130_01",
+                         "defaultSecondaryTraitName":  "Versalis Ignition"
+                     },
+                     {
+                         "sigilId":  "GEEN_130_91",
+                         "sigilName":  "Versalis Foundation+",
+                         "traitId":  "SKILL_130_00",
+                         "traitName":  "Versalis Foundation",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_130_92",
+                         "sigilName":  "Versalis Ignition+",
+                         "traitId":  "SKILL_130_01",
+                         "traitName":  "Versalis Ignition",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_130_93",
+                         "sigilName":  "Versalis Heart+",
+                         "traitId":  "SKILL_130_02",
+                         "traitName":  "Versalis Heart",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_131_90",
+                         "sigilName":  "Crimson\u0027s Awakening+",
+                         "traitId":  "SKILL_131_00",
+                         "traitName":  "Crimson\u0027s Clout",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_131_01",
+                         "defaultSecondaryTraitName":  "Crimson\u0027s Flight"
+                     },
+                     {
+                         "sigilId":  "GEEN_131_91",
+                         "sigilName":  "Crimson\u0027s Clout+",
+                         "traitId":  "SKILL_131_00",
+                         "traitName":  "Crimson\u0027s Clout",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_131_92",
+                         "sigilName":  "Crimson\u0027s Flight+",
+                         "traitId":  "SKILL_131_01",
+                         "traitName":  "Crimson\u0027s Flight",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_131_93",
+                         "sigilName":  "Crimson\u0027s Warpath+",
+                         "traitId":  "SKILL_131_02",
+                         "traitName":  "Crimson\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_132_90",
+                         "sigilName":  "Ebony\u0027s Awakening+",
+                         "traitId":  "SKILL_132_00",
+                         "traitName":  "Ebony\u0027s Presence",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_132_01",
+                         "defaultSecondaryTraitName":  "Ebony\u0027s Poise"
+                     },
+                     {
+                         "sigilId":  "GEEN_132_91",
+                         "sigilName":  "Ebony\u0027s Presence+",
+                         "traitId":  "SKILL_132_00",
+                         "traitName":  "Ebony\u0027s Presence",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_132_92",
+                         "sigilName":  "Ebony\u0027s Poise+",
+                         "traitId":  "SKILL_132_01",
+                         "traitName":  "Ebony\u0027s Poise",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_132_93",
+                         "sigilName":  "Ebony\u0027s Warpath+",
+                         "traitId":  "SKILL_132_02",
+                         "traitName":  "Ebony\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_133_02",
+                         "sigilName":  "Fortifying Vigor",
+                         "traitId":  "SKILL_133_00",
+                         "traitName":  "Fortifying Vigor",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_134_02",
+                         "sigilName":  "Instilling Vigor",
+                         "traitId":  "SKILL_134_00",
+                         "traitName":  "Instilling Vigor",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_135_02",
+                         "sigilName":  "Gilding Vigor",
+                         "traitId":  "SKILL_135_00",
+                         "traitName":  "Gilding Vigor",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_140_00",
+                         "sigilName":  "Crabby Resonance",
+                         "traitId":  "SKILL_140_00",
+                         "traitName":  "Crabby Resonance",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_141_04",
+                         "sigilName":  "Crabvestment Returns",
+                         "traitId":  "SKILL_141_04",
+                         "traitName":  "Crabvestment Returns",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_142_02",
+                         "sigilName":  "Seven Net",
+                         "traitId":  "SKILL_142_00",
+                         "traitName":  "Seven Net",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_144_24",
+                         "sigilName":  "Stronghold V+",
+                         "traitId":  "SKILL_144_00",
+                         "traitName":  "Stronghold",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_145_24",
+                         "sigilName":  "Power Hungry V+",
+                         "traitId":  "SKILL_145_00",
+                         "traitName":  "Power Hungry",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_146_24",
+                         "sigilName":  "War Elemental+",
+                         "traitId":  "SKILL_146_00",
+                         "traitName":  "War Elemental",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_150_24",
+                         "sigilName":  "Untouchable+",
+                         "traitId":  "SKILL_150_00",
+                         "traitName":  "Untouchable",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_151_24",
+                         "sigilName":  "Supplementary Damage V+",
+                         "traitId":  "SKILL_151_00",
+                         "traitName":  "Supplementary DMG",
+                         "maxLevel":  45
+                     },
+                     {
+                         "sigilId":  "GEEN_152_24",
+                         "sigilName":  "Less Is More V+",
+                         "traitId":  "SKILL_152_00",
+                         "traitName":  "Less Is More",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_153_24",
+                         "sigilName":  "Head Start V+",
+                         "traitId":  "SKILL_153_00",
+                         "traitName":  "Head Start",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_154_24",
+                         "sigilName":  "Berserker V+",
+                         "traitId":  "SKILL_154_00",
+                         "traitName":  "Berserker",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_156_24",
+                         "sigilName":  "Potent Greens+",
+                         "traitId":  "SKILL_156_00",
+                         "traitName":  "Potent Greens",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_158_24",
+                         "sigilName":  "Glass Cannon V+",
+                         "traitId":  "SKILL_158_00",
+                         "traitName":  "Glass Cannon",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_159_24",
+                         "sigilName":  "Flight over Fight+",
+                         "traitId":  "SKILL_159_00",
+                         "traitName":  "Flight over Fight",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_160_04",
+                         "sigilName":  "Alpha+",
+                         "traitId":  "SKILL_160_00",
+                         "traitName":  "Alpha",
+                         "maxLevel":  30,
+                         "defaultSecondaryTraitId":  "SKILL_020_00",
+                         "defaultSecondaryTraitName":  "DMG Cap"
+                     },
+                     {
+                         "sigilId":  "GEEN_161_04",
+                         "sigilName":  "Beta+",
+                         "traitId":  "SKILL_161_00",
+                         "traitName":  "Beta",
+                         "maxLevel":  30,
+                         "defaultSecondaryTraitId":  "SKILL_020_00",
+                         "defaultSecondaryTraitName":  "DMG Cap"
+                     },
+                     {
+                         "sigilId":  "GEEN_162_04",
+                         "sigilName":  "Gamma+",
+                         "traitId":  "SKILL_162_00",
+                         "traitName":  "Gamma",
+                         "maxLevel":  30,
+                         "defaultSecondaryTraitId":  "SKILL_020_00",
+                         "defaultSecondaryTraitName":  "DMG Cap"
+                     },
+                     {
+                         "sigilId":  "GEEN_164_00",
+                         "sigilName":  "Crabmiration",
+                         "traitId":  "SKILL_164_00",
+                         "traitName":  "Crabmiration",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_166_24",
+                         "sigilName":  "Greater Aegis V+",
+                         "traitId":  "SKILL_166_00",
+                         "traitName":  "Greater Aegis",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_167_04",
+                         "sigilName":  "Auto Potion",
+                         "traitId":  "SKILL_167_00",
+                         "traitName":  "Auto Potion",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_170_74",
+                         "sigilName":  "Seven-Star Boundary+",
+                         "traitId":  "SKILL_170_03",
+                         "traitName":  "Seven-Star Boundary",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_170_90",
+                         "sigilName":  "Spirit Edge\u0027s Awakening+",
+                         "traitId":  "SKILL_170_00",
+                         "traitName":  "Spirit Edge\u0027s Rally",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_170_01",
+                         "defaultSecondaryTraitName":  "Spirit Edge\u0027s Fury"
+                     },
+                     {
+                         "sigilId":  "GEEN_170_91",
+                         "sigilName":  "Spirit Edge\u0027s Rally+",
+                         "traitId":  "SKILL_170_00",
+                         "traitName":  "Spirit Edge\u0027s Rally",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_170_92",
+                         "sigilName":  "Spirit Edge\u0027s Fury+",
+                         "traitId":  "SKILL_170_01",
+                         "traitName":  "Spirit Edge\u0027s Fury",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_170_93",
+                         "sigilName":  "Spirit Edge\u0027s Warpath+",
+                         "traitId":  "SKILL_170_02",
+                         "traitName":  "Spirit Edge\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_171_74",
+                         "sigilName":  "Two-Crown Boundary+",
+                         "traitId":  "SKILL_171_03",
+                         "traitName":  "Two-Crown Boundary",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_171_90",
+                         "sigilName":  "Dark Huntress\u0027s Awakening+",
+                         "traitId":  "SKILL_171_00",
+                         "traitName":  "Dark Huntress\u0027s Volley",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_171_01",
+                         "defaultSecondaryTraitName":  "Dark Huntress\u0027s Surge"
+                     },
+                     {
+                         "sigilId":  "GEEN_171_91",
+                         "sigilName":  "Dark Huntress\u0027s Volley+",
+                         "traitId":  "SKILL_171_00",
+                         "traitName":  "Dark Huntress\u0027s Volley",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_171_92",
+                         "sigilName":  "Dark Huntress\u0027s Surge+",
+                         "traitId":  "SKILL_171_01",
+                         "traitName":  "Dark Huntress\u0027s Surge",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_171_93",
+                         "sigilName":  "Dark Huntress\u0027s Warpath+",
+                         "traitId":  "SKILL_171_02",
+                         "traitName":  "Dark Huntress\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_172_74",
+                         "sigilName":  "Ain+",
+                         "traitId":  "SKILL_172_03",
+                         "traitName":  "Ain",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_172_90",
+                         "sigilName":  "Supreme Primarch\u0027s Awakening+",
+                         "traitId":  "SKILL_172_00",
+                         "traitName":  "Supreme Primarch\u0027s Awe",
+                         "maxLevel":  15,
+                         "defaultSecondaryTraitId":  "SKILL_172_01",
+                         "defaultSecondaryTraitName":  "Supreme Primarch\u0027s Nimbus"
+                     },
+                     {
+                         "sigilId":  "GEEN_172_91",
+                         "sigilName":  "Supreme Primarch\u0027s Awe+",
+                         "traitId":  "SKILL_172_00",
+                         "traitName":  "Supreme Primarch\u0027s Awe",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_172_92",
+                         "sigilName":  "Supreme Primarch\u0027s Nimbus+",
+                         "traitId":  "SKILL_172_01",
+                         "traitName":  "Supreme Primarch\u0027s Nimbus",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_172_93",
+                         "sigilName":  "Supreme Primarch\u0027s Warpath+",
+                         "traitId":  "SKILL_172_02",
+                         "traitName":  "Supreme Primarch\u0027s Warpath",
+                         "maxLevel":  15
+                     },
+                     {
+                         "sigilId":  "GEEN_233_24",
+                         "sigilName":  "Berserker Echo+",
+                         "traitId":  "SKILL_233_00",
+                         "traitName":  "Berserker Echo",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_234_24",
+                         "sigilName":  "Spartan Echo+",
+                         "traitId":  "SKILL_234_00",
+                         "traitName":  "Spartan Echo",
+                         "maxLevel":  null
+                     },
+                     {
+                         "sigilId":  "GEEN_235_24",
+                         "sigilName":  "Super Ultimate Perfect Dodge+",
+                         "traitId":  "SKILL_235_00",
+                         "traitName":  "Super Ultimate Perfect Dodge",
+                         "maxLevel":  null
+                     }
+                 ],
+    "unresolved":  [
+
+                   ]
+}
