@@ -1,4 +1,4 @@
-﻿{
+{
     "schemaVersion":  1,
     "description":  "Draft trait catalog for the future GUI. Unknown values are null and must be verified before the GUI treats them as selectable.",
     "sources":  [
@@ -459,6 +459,40 @@
                        "notes":  "Added from current sigil pool base-trait mapping. Max level is null unless present in public trait max-level tables.",
                        "source":  "Nenkai Trait/Skill IDs; public trait max-level tables; temporary broad secondary pool",
                        "confidence":  "medium"
+                   },
+                   {
+                       "internalId":  "SKILL_065_00",
+                       "hash":  "0x9389CC06",
+                       "displayName":  "Improved Healing",
+                       "category":  "support_trait",
+                       "maxLevel":  30,
+                       "allowedLevels":  null,
+                       "observedLevels":  [
+                                              30
+                                          ],
+                       "canAppearAsPrimary":  true,
+                       "canAppearAsSecondary":  true,
+                       "bannedAsSecondaryOnPlusSigils":  false,
+                       "notes":  "Added after missing-pool audit. Item hash and trait hash verified from Nenkai public ID data; max level 30 verified from the GameFAQs Support Sigils guide.",
+                       "source":  "Nenkai Item IDs; Nenkai Trait/Skill IDs; GameFAQs Support Sigils guide",
+                       "confidence":  "high"
+                   },
+                   {
+                       "internalId":  "SKILL_066_00",
+                       "hash":  "0x6085DA25",
+                       "displayName":  "Regen",
+                       "category":  "support_trait",
+                       "maxLevel":  45,
+                       "allowedLevels":  null,
+                       "observedLevels":  [
+                                              45
+                                          ],
+                       "canAppearAsPrimary":  true,
+                       "canAppearAsSecondary":  true,
+                       "bannedAsSecondaryOnPlusSigils":  false,
+                       "notes":  "Added after missing-pool audit. Item hash and trait hash verified from Nenkai public ID data; max level 45 verified from the GameFAQs Support Sigils guide.",
+                       "source":  "Nenkai Item IDs; Nenkai Trait/Skill IDs; GameFAQs Support Sigils guide",
+                       "confidence":  "high"
                    },
                    {
                        "internalId":  "SKILL_067_00",

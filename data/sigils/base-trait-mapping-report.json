@@ -1,4 +1,4 @@
-﻿{
+{
     "resolved":  [
                      {
                          "sigilId":  "GEEN_000_24",
@@ -181,6 +181,20 @@
                          "traitId":  "SKILL_064_00",
                          "traitName":  "Dodge Payback",
                          "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_065_24",
+                         "sigilName":  "Improved Healing V+",
+                         "traitId":  "SKILL_065_00",
+                         "traitName":  "Improved Healing",
+                         "maxLevel":  30
+                     },
+                     {
+                         "sigilId":  "GEEN_066_24",
+                         "sigilName":  "Regen V+",
+                         "traitId":  "SKILL_066_00",
+                         "traitName":  "Regen",
+                         "maxLevel":  45
                      },
                      {
                          "sigilId":  "GEEN_067_24",

@@ -1,6 +1,6 @@
 # Final Data Audit
 
-Date: 2026-06-01
+Date: 2026-06-05
 
 ## Sources Checked
 
@@ -10,8 +10,8 @@ Date: 2026-06-01
 
 ## Result
 
-- Sigils in current pool: `157`
-- Traits in current pool: `135`
+- Sigils in current pool: `159`
+- Traits in current pool: `137`
 - Missing sigil hashes: `0`
 - Missing trait max levels: `0`
 - Duplicate sigil IDs: `0`
@@ -37,7 +37,10 @@ Date: 2026-06-01
   - `Crabmiration`: `45`
   - `Auto Potion`: `15`
 - Corrected `Crabvestment Returns` from `SKILL_141_04` to the actual skill row `SKILL_141_00`, with max level `15`.
+- Added `Improved Healing V+` / `SKILL_065_00` with max level `30`.
+- Added `Regen V+` / `SKILL_066_00` with max level `45`.
 
 ## Notes
 
 The current secondary trait pool is intentionally broad so the tool can create offline impossible sigil combinations. This audit verifies IDs, hashes, references, and trait level caps. It does not restore strict in-game drop-generation legality.
+

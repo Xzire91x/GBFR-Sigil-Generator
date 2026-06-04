@@ -11,9 +11,9 @@ Sources used:
 
 Current status:
 
-- Total sigils in pool: 157.
-- Sigils with mapped primary/base trait ID: 157.
-- Sigils with mapped primary/base trait ID and verified max level: 157.
+- Total sigils in pool: 159.
+- Sigils with mapped primary/base trait ID: 159.
+- Sigils with mapped primary/base trait ID and verified max level: 159.
 - Unresolved sigils: 0.
 - Trait max-level mismatches against local `skill_status.tbl`: 0.
 
@@ -32,6 +32,8 @@ Support sigil update:
 - Verified `Potion Hoarder` and `Untouchable` max levels as `15` from local `skill_status.tbl`.
 - Added missing upgraded support sigil: `Drain+`.
 - `Drain` uses `SKILL_067_00` and max level `45`.
+- Added missing final-tier support sigils: `Improved Healing V+` and `Regen V+`.
+- `Improved Healing` uses `SKILL_065_00` and max level `30`; `Regen` uses `SKILL_066_00` and max level `45`.
 - Removed the four `SBA/Chain Burst Effect+` variants from the selectable pool because they remained unresolved/TODO and do not appear as normal in-game sigils.
 - Removed `Enhanced Damage V+` and `SKILL_168_00` from the selectable pool after in-game testing showed a blank/nonfunctional trait.
 - Removed `Finders Keepers` from the selectable pool because it had no verified primary trait and was the last unresolved/TODO entry.
@@ -57,3 +59,4 @@ Remaining data needed for exact completion:
 
 - Exported `system/table/gem.tbl`, or a SQLite export created by GBFRDataTools, for exact `SkillId1` and `SkillId2` per sigil.
 - Exported/verified data for any removed hidden or unresolved entries before re-adding them.
+
